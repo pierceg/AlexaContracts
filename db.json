@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "Data": "<Data><ConsigneeAddress></ConsigneeAddress><Amount></Amount><Percentage></Percentage><Number></Number><ConsignmentAddress></ConsignmentAddress><SellByDate></SellByDate><State></State></Data>"
+      "Data": "<Data><ConsigneeAddress>2000 W Milwaukee Ave, Chicago, IL 60647</ConsigneeAddress><ConsignmentAddress>768 N State St, Chicago, IL, 60604</ConsignmentAddress><State>Illinois</State></Data>"
     }
   ],
   "profile": {
